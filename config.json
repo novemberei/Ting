@@ -1,0 +1,16 @@
+{
+    "hotkey": "f8",
+    "sample_rate": 16000,
+    "chunk_size_ms": 600,
+    "model_name": "FunAudioLLM/SenseVoiceSmall",
+    "model_hub": "hf",
+    "model_cache_dir": "",
+    "device": "cpu",
+    "model_offline": true,
+    "use_itn": true,
+    "ban_emo_unk": true,
+    "output_method": "auto",
+    "vad_enabled": false,
+    "vad_silence_ms": 800,
+    "vad_model": "funasr/fsmn-vad"
+}
